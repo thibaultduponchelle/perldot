@@ -1,5 +1,5 @@
 ## Settings
-title: Perldot
+title: PerlFish
 url: ""
 baseurl: ""
 permalink: "/annoucements/:title"
@@ -9,7 +9,7 @@ webrick:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
   latest: 5.40.0
-github: "thibaultduponchelle/perldot"
+github: "thibaultduponchelle/perlfish"
 plugins:
   - jemoji
   - jekyll-feed

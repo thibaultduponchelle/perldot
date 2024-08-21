@@ -6,7 +6,7 @@ permalink: /community
 
 {% include header.html 
    title="Community" 
-   content="A *community-first* language"
+   content="A \"community-first\" language"
 %}
 
 {% include section3.html 
