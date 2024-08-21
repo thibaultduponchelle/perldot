@@ -38,7 +38,7 @@ They add new features, improve perl speed, fix security bugs and port perl to ne
 %}
 
 {% include sectiontext.html
-   title="RRROOOOAAAAAAARRRRRR!"
+   title="RRROOOAAAAARRRR!"
    color="blue"
    content='![](/assets/img/raptor2.svg)'
 %}
