@@ -23,7 +23,7 @@ permalink: /books
 [Intermediate Perl](https://www.intermediateperl.com/)'
    right-title="Mastering Perl"
    right-image="books/masteringperl.jpg"
-   right-content='The last part of the trilogy. Follow "Programming Perl" and "Intermediate Perl". "Target experimented Perl programmers.
+   right-content='The last part of the trilogy. Follow "Programming Perl" and "Intermediate Perl". Target experimented Perl programmers.
 
 [Mastering Perl](https://www.masteringperl.org/)'
 %}
