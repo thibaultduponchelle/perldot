@@ -33,8 +33,7 @@ permalink: /community
    right-image="orgs.svg"
    right-content='
 * [The Perl Foundation](http://www.perlfoundation.org/) - Help and promote the Perl programming language :post_office:
-* [Enlightened Perl Organization](http://www.enlightenedperl.org/) - A membership organization created to support Perl ecosystem
-* [YAPC::Europe Foundation](http://www.yapceurope.org/) - A non-profit organization which works to promote Perl in Europe primarily through public events'
+* [Japan Perl Association](http://japan.perlassociation.org) - Organize YAPC::Japan and support Perl projects, community and businesses in Japan
 
 %}
 
