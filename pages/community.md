@@ -33,7 +33,7 @@ permalink: /community
    right-image="orgs.svg"
    right-content='
 * [The Perl Foundation](http://www.perlfoundation.org/) - Help and promote the Perl programming language :post_office:
-* [Japan Perl Association](http://japan.perlassociation.org) - Organize YAPC::Japan and support Perl projects, community and businesses in Japan
+* [Japan Perl Association](http://japan.perlassociation.org) - Organize YAPC::Japan and support Perl projects, community and businesses in Japan'
 
 %}
 
