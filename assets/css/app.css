@@ -165,7 +165,7 @@ ul {
     padding-left: 1.5em;
 }
 section ul {
-    list-style-image: url('/assets/img/raptor-li.png');
+    list-style-image: url('/assets/img/camel-li.svg');
 }
 ol {
     list-style: decimal;
